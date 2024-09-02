@@ -26,5 +26,5 @@ Final Answer: The flag of Langerak, a small town in the Netherlands, has been pr
 
 Finished chain.
 
-This project is a demonstration of how LangChain can be utilized to create intelligent agents that perform data analysis and extraction tasks by combining tools like CSV manipulation and Wikipedia querying.
+
 
