@@ -1,4 +1,5 @@
 # langchain-csv-wikipedia-analysis
+![image](https://github.com/user-attachments/assets/8003bf40-3347-4ba0-86fb-6c7fc3746a7b)
 Project : LangChain CSV & Wikipedia Analysis
 
 Notebook: langchain_csv.ipynb
