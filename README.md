@@ -1,4 +1,6 @@
 # langchain-csv-wikipedia-analysis
+Project : LangChain CSV & Wikipedia Analysis
+
 Notebook: langchain_csv.ipynb
 
 This project showcases how to define custom tools in LangChain and chain them together to perform complex tasks involving CSV files and Wikipedia queries.
